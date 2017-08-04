@@ -1,0 +1,4 @@
+name = IE Custom Caching
+description = Use a different CID for caching the mobile pages to distinguish from the normal ones (desktop - tablet) DEPENDS ON MEMCACHE + AKAMAI HEADERS TO WORK!!!
+core = 7.x
+package = IE CUSTOM

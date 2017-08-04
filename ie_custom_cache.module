@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * This file is here to force Drupal to work with the custom cache inc file.
+ * Leave empty
+ */
